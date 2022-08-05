@@ -10,3 +10,12 @@ body {
 .joy {
     font-family: 'Lobster', cursive;
 }
+.blue-btn {
+    background-color: #289BDE;
+}
+.btn-text {
+    color: #289BDE;
+}
+a {
+    text-decoration: none;
+}
